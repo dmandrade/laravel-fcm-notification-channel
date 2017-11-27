@@ -2,6 +2,8 @@
 
 namespace NotificationChannels\FCM;
 
+use Illuminate\Notifications\Notification;
+
 class MessageWasSended
 {
     /**
